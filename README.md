@@ -19,7 +19,7 @@
 
 <p align="center">
   <!-- Lenguajes -->
-  <img src="https://skillicons.dev/icons?i=ts,js,py,java,cpp,cs" height="45" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,cs" height="45" />
   <br/>
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,quasar" height="45" />
@@ -28,10 +28,10 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express" height="45" />
   <br/>
   <!-- Bases de datos -->
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,dynamodb" height="45" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" />
   <br/>
   <!-- Cloud & DevOps -->
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,windowsserver" height="45" />
+  <img src="https://skillicons.dev/icons?i=azure,docker,windowsserver" height="45" />
   <br/>
   <!-- Herramientas -->
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="45" />
