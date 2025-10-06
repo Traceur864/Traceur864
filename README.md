@@ -19,10 +19,10 @@
 
 <p align="center">
   <!-- Lenguajes -->
-  <img src="https://skillicons.dev/icons?i=ts,js,py,cs" height="45" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py" height="45" />
   <br/>
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,quasar" height="45" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,quasar,bootstrap,tailwindcss" height="45" />
   <br/>
   <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=nodejs,express" height="45" />
