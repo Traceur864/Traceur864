@@ -22,7 +22,7 @@
   <img src="https://skillicons.dev/icons?i=ts,js,py" height="45" />
   <br/>
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,quasar,bootstrap,tailwindcss" height="45" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,bootstrap,tailwindcss" height="45" />
   <br/>
   <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=nodejs,express" height="45" />
