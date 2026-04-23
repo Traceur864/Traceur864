@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,bootstrap,tailwindcss" height="45" />
   <br/>
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express" height="45" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" height="45" />
   <br/>
   <!-- Bases de datos -->
   <img src="https://skillicons.dev/icons?i=mysql" height="45" />
